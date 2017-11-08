@@ -1,5 +1,6 @@
 Sample
 
+```
 <!-- for editor -->
 var editor = CKEDITOR.replace('editable', {
     filebrowserImageUploadUrl: '/upload/image/?ckcallback=true',
@@ -41,3 +42,4 @@ editor.on('fileUploadResponse', function (evt) {
         evt.cancel();
     }
 });
+```

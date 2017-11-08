@@ -1,4 +1,6 @@
-Sample
+Sample, from  https://github.com/RyanSiu1995/ckeditor-ImageUploader
+
+just for my usage. 
 
 ```
 <!-- for editor -->
